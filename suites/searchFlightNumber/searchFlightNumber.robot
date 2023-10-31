@@ -52,5 +52,6 @@ Verify Failed Search Flight Number - Combination of Lowercase & Uppercase Flight
 
 Verify Search Flight Number When User Not Logged In 
     Open Flight Application
+    Click Search Flight Number Button
     Verify Homepage Appears
     Close Application
